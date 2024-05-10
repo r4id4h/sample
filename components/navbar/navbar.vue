@@ -1,0 +1,11 @@
+<template>
+  <v-app-bar
+      clipped-left
+      class="flex-grow-0"
+      color="primary"
+      border="sm"
+      flat
+  >
+    <p>Navbar</p>
+  </v-app-bar>
+</template>
